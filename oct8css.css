@@ -1,0 +1,44 @@
+body
+{
+	background:lightgray;
+	
+}
+
+img
+{
+	height:120px;
+	width:140px;
+}
+
+table 
+{
+	width:600px;
+	border:double;
+	/*width:60% is another way to write this */
+}
+
+div
+{
+	padding:20px; 140px;
+	/*1 number is all 4 sidees
+	2 numbers top/bottom and left/right
+	4 numbers top right bottom left  */
+	border:solid;
+	border-color:red;
+	border-width:5px;
+	margin:45px;
+	
+}
+
+.thirdRow 
+{
+	background:gray;
+
+}
+
+#topTitle
+{
+	*id="" */
+	font-size:30pt;
+	color:red;
+}
